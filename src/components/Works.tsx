@@ -22,7 +22,6 @@ const projectData: Project[] = [
     category: 'React + Node',
     name: 'CognoScente',
     description: 'Full-Stack E-Commerce Website for selling luxury fragnances',
-    link: 'https://ho-cognoscente.netlify.app',
     github: 'https://github.com/hao-on/CognoScente',
   },
   {
@@ -31,7 +30,6 @@ const projectData: Project[] = [
     name: 'Breadit',
     description:
       'Full-Stack social media platform, taking inspiration from Reddit',
-    link: 'https://ho-breadit.vercel.app',
     github: 'https://github.com/hao-on/Breadit',
   },
   {
