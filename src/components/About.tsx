@@ -27,7 +27,7 @@ const infoData = [
   },
   {
     icon: <GraduationCap size={20} />,
-    text: 'Bachelor on Computer Science',
+    text: 'Bachelor of Computer Science',
   },
 ];
 
@@ -49,7 +49,7 @@ const qualificationData: {
       {
         university: 'California State University, Long Beach',
         qualification: 'Bachelor of Science',
-        years: '2019 - 2022',
+        years: '08/2019 - 06/2022',
       },
     ],
   },
@@ -59,12 +59,12 @@ const qualificationData: {
       {
         company: 'Golden West Consultinc, INC.',
         role: 'Software Engineer I',
-        years: '2023 - Present',
+        years: '04/2023 - 05/2024',
       },
       {
         company: 'California State University, Long Beach',
         role: 'Undergraduate Researcher',
-        years: '2021 - 2022',
+        years: '01/2021 - 06/2022',
       },
     ],
   },
