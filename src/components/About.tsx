@@ -57,7 +57,12 @@ const qualificationData: {
     title: 'experience',
     data: [
       {
-        company: 'Golden West Consultinc, INC.',
+        company: 'IBM',
+        role: 'Software Engineer, Front End',
+        years: '12/2024 - Present',
+      },
+      {
+        company: 'Golden West Consulting, INC.',
         role: 'Software Engineer I',
         years: '04/2023 - 05/2024',
       },
