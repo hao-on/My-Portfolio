@@ -65,12 +65,7 @@ const qualificationData: {
         company: 'Golden West Consulting, INC.',
         role: 'Software Engineer I',
         years: '04/2023 - 05/2024',
-      },
-      {
-        company: 'California State University, Long Beach',
-        role: 'Undergraduate Researcher',
-        years: '01/2021 - 06/2022',
-      },
+      }
     ],
   },
 ];
